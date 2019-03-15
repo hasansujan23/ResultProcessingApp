@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TESTModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="TESTModelStoreContainer">
+    <EntitySet Name="COURCE_INFO" EntityType="TESTModel.Store.COURCE_INFO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TEMP_MARK" EntityType="TESTModel.Store.TEMP_MARK" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="COURCE_INFO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="COURCE_CODE" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="COURCE_TITLE" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="SESSION_NO" Type="varchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="TEMP_MARK">
+    <Key>
+      <PropertyRef Name="ROLL" />
+    </Key>
+    <Property Name="ROLL" Type="int" Nullable="false" />
+    <Property Name="NAME" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="CT1" Type="float" Nullable="false" />
+    <Property Name="CT2" Type="float" Nullable="false" />
+    <Property Name="CT3" Type="float" Nullable="false" />
+    <Property Name="AVARAGE_MARK" Type="int" Nullable="false" />
+    <Property Name="ATTENDENCE_MARK" Type="int" Nullable="false" />
+    <Property Name="TOTAL" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>

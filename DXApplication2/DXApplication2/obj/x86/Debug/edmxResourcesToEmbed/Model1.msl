@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TESTModelStoreContainer" CdmEntityContainer="TESTEntities">
+    <EntitySetMapping Name="COURCE_INFO">
+      <EntityTypeMapping TypeName="TESTModel.COURCE_INFO">
+        <MappingFragment StoreEntitySet="COURCE_INFO">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="COURCE_CODE" ColumnName="COURCE_CODE" />
+          <ScalarProperty Name="COURCE_TITLE" ColumnName="COURCE_TITLE" />
+          <ScalarProperty Name="SESSION_NO" ColumnName="SESSION_NO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEMP_MARK">
+      <EntityTypeMapping TypeName="TESTModel.TEMP_MARK">
+        <MappingFragment StoreEntitySet="TEMP_MARK">
+          <ScalarProperty Name="ROLL" ColumnName="ROLL" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="CT1" ColumnName="CT1" />
+          <ScalarProperty Name="CT2" ColumnName="CT2" />
+          <ScalarProperty Name="CT3" ColumnName="CT3" />
+          <ScalarProperty Name="AVARAGE_MARK" ColumnName="AVARAGE_MARK" />
+          <ScalarProperty Name="ATTENDENCE_MARK" ColumnName="ATTENDENCE_MARK" />
+          <ScalarProperty Name="TOTAL" ColumnName="TOTAL" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

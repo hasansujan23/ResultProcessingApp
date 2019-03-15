@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TESTModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="TESTEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="COURCE_INFO" EntityType="TESTModel.COURCE_INFO" />
+    <EntitySet Name="TEMP_MARK" EntityType="TESTModel.TEMP_MARK" />
+  </EntityContainer>
+  <EntityType Name="COURCE_INFO">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" />
+    <Property Name="COURCE_CODE" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+    <Property Name="COURCE_TITLE" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="SESSION_NO" Type="String" Nullable="false" MaxLength="20" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TEMP_MARK">
+    <Key>
+      <PropertyRef Name="ROLL" />
+    </Key>
+    <Property Name="ROLL" Type="Int32" Nullable="false" />
+    <Property Name="NAME" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="CT1" Type="Double" Nullable="false" />
+    <Property Name="CT2" Type="Double" Nullable="false" />
+    <Property Name="CT3" Type="Double" Nullable="false" />
+    <Property Name="AVARAGE_MARK" Type="Int32" Nullable="false" />
+    <Property Name="ATTENDENCE_MARK" Type="Int32" Nullable="false" />
+    <Property Name="TOTAL" Type="Int32" Nullable="false" />
+  </EntityType>
+</Schema>

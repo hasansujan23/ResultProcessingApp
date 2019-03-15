@@ -1,0 +1,75 @@
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form1.resources
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Properties.Resources.resources
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csproj.GenerateResource.Cache
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.licenses
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.pdb
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form2.resources
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\bin\Debug\EntityFramework.dll
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\bin\Debug\EntityFramework.xml
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.cache
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SUJAN\Desktop\C# practice\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+F:\C# code\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.pdb
+F:\C# code\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+F:\C# code\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+F:\C# code\DXApplication2\DXApplication2\bin\Debug\EntityFramework.dll
+F:\C# code\DXApplication2\DXApplication2\bin\Debug\EntityFramework.xml
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form1.resources
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form2.resources
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Properties.Resources.resources
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csproj.GenerateResource.Cache
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.licenses
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.cache
+F:\C# code\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.compiled
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.pdb
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\bin\Debug\EntityFramework.dll
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\bin\Debug\EntityFramework.xml
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form1.resources
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form2.resources
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Properties.Resources.resources
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csproj.GenerateResource.Cache
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.licenses
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.cache
+F:\WEB\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.pdb
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.pdb
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\EntityFramework.dll
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\EntityFramework.xml
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form1.resources
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form2.resources
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Properties.Resources.resources
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csproj.GenerateResource.Cache
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.licenses
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.cache
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\RdlCompile.compiled
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\Database1.mdf
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\Database1_log.ldf
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.manifest
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.application
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.manifest
+C:\Users\SUJAN\Desktop\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.application
+F:\attendence_backup\DXApplication2\DXApplication2\bin\Debug\DXApplication2.exe.config
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.pdb
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csprojResolveAssemblyReference.cache
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form1.resources
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Form2.resources
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.Properties.Resources.resources
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.csproj.GenerateResource.Cache
+F:\attendence_backup\DXApplication2\DXApplication2\obj\x86\Debug\DXApplication2.exe.licenses
